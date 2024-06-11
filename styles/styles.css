@@ -1,0 +1,15 @@
+
+
+:root{
+    --color-rouge: red;
+    --size-texte: 2em;
+}
+
+
+button:hover{
+  background-color: var(--color-rouge);
+}
+
+button{
+    font-size: var(--size-texte);
+}
